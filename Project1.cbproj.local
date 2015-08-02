@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.574,=C:\Documents and Settings\WORK\Мои документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Documents and Settings\WORK\Рабочий стол\Timer\Unit1.cpp=C:\Documents and Settings\WORK\Мои документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Documents and Settings\WORK\Рабочий стол\Timer\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Documents and Settings\WORK\Рабочий стол\Timer\Unit1.h=C:\Documents and Settings\WORK\Мои документы\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Documents and Settings\WORK\Рабочий стол\Timer\Unit1.dfm=C:\Documents and Settings\WORK\Мои документы\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,C:\Documents and Settings\WORK\Рабочий стол\Timer\Project1.cbproj=C:\Documents and Settings\WORK\Мои документы\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,C:\Documents and Settings\WORK\Рабочий стол\Timer\Project1.cbproj=C:\Documents and Settings\WORK\Рабочий стол\Timer\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
